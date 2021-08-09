@@ -1,0 +1,38 @@
+*{
+  margin: 0px;
+  padding: 0;
+}
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+ 
+}
+.h22{
+  font-weight: bold;
+  font-size: x-large;
+  color: wheat;
+}
+.text1{
+  flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text1 p{
+  font-weight: 700;
+}
+.structure{
+margin: 8px;
+
+}
+.imgst{
+  height: 200px;
+  width: 100%;
+}
+.text1 input[type=text]{
+  margin-top: -16px;
+  border:none;
+  border-bottom: 2px solid green;
+}
