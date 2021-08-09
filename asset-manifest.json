@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fotofinderbyjai/static/css/main.8e17670c.chunk.css",
+    "main.js": "/fotofinderbyjai/static/js/main.449d831c.chunk.js",
+    "main.js.map": "/fotofinderbyjai/static/js/main.449d831c.chunk.js.map",
+    "runtime-main.js": "/fotofinderbyjai/static/js/runtime-main.61c7f077.js",
+    "runtime-main.js.map": "/fotofinderbyjai/static/js/runtime-main.61c7f077.js.map",
+    "static/css/2.68b64559.chunk.css": "/fotofinderbyjai/static/css/2.68b64559.chunk.css",
+    "static/js/2.edea2a9a.chunk.js": "/fotofinderbyjai/static/js/2.edea2a9a.chunk.js",
+    "static/js/2.edea2a9a.chunk.js.map": "/fotofinderbyjai/static/js/2.edea2a9a.chunk.js.map",
+    "static/js/3.50fbd945.chunk.js": "/fotofinderbyjai/static/js/3.50fbd945.chunk.js",
+    "static/js/3.50fbd945.chunk.js.map": "/fotofinderbyjai/static/js/3.50fbd945.chunk.js.map",
+    "index.html": "/fotofinderbyjai/index.html",
+    "static/css/2.68b64559.chunk.css.map": "/fotofinderbyjai/static/css/2.68b64559.chunk.css.map",
+    "static/css/main.8e17670c.chunk.css.map": "/fotofinderbyjai/static/css/main.8e17670c.chunk.css.map",
+    "static/js/2.edea2a9a.chunk.js.LICENSE.txt": "/fotofinderbyjai/static/js/2.edea2a9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61c7f077.js",
+    "static/css/2.68b64559.chunk.css",
+    "static/js/2.edea2a9a.chunk.js",
+    "static/css/main.8e17670c.chunk.css",
+    "static/js/main.449d831c.chunk.js"
+  ]
+}
